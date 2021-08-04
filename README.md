@@ -16,4 +16,13 @@
 ### :white_medium_square: Querys Auxiliares
   Esta Pasta esta dedicadas a algumas querys da linguagem SQL que julgo ser interessante e me ajudara em projetos futuros.
   
+# :large_orange_diamond: Andamento e Desenvolvimento da Disciplina 
+
+###  MES: AGOSTO
+
+- [:heavy_check_mark:] Aula 01 - 03/08/2021
+- [ ] Aula 02 - 10/08/2021
+- [ ] Aula 03 - 17/08/2021
+- [ ] Aula 04 - 24/08/2021
+- [ ] Aula 05 - 31/08/2021
 
