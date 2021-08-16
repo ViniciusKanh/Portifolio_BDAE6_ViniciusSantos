@@ -1,5 +1,5 @@
 # :bar_chart: BANCO DE DADOS 02 - BDAE6 :minidisc:	
-<img src="https://github.com/ViniciusKanh/Portifolio_BDAE6_ViniciusSantos/blob/main/imgs/CAPA.jfif" width="600" height="300" />
+<img src="https://github.com/ViniciusKanh/Portifolio_BDAE6_ViniciusSantos/blob/main/imgs/CAPA.gif" width="600" height="300" />
 
 
 ## :mag: Portifolio BDAE6 Vinicius Santos
