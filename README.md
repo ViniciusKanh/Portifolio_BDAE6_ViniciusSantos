@@ -21,7 +21,7 @@
 ###  MES: AGOSTO
 
 - [:heavy_check_mark:] Aula 01 - 03/08/2021
-- [ ] Aula 02 - 10/08/2021
+- [:heavy_check_mark:] Aula 02 - 10/08/2021
 - [ ] Aula 03 - 17/08/2021
 - [ ] Aula 04 - 24/08/2021
 - [ ] Aula 05 - 31/08/2021
