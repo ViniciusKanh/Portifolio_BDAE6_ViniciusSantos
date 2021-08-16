@@ -1,3 +1,7 @@
+# :bar_chart: BANCO DE DADOS 02 - BDAE6 :minidisc:	
+<img src="https://github.com/ViniciusKanh/Portifolio_BDAE6_ViniciusSantos/blob/main/imgs/CAPA.jfif" width="600" height="300" />
+
+
 ## :mag: Portifolio BDAE6 Vinicius Santos
 ### Esse Portifolio esta relacionado com a minha materia do IFSP Birigui de Banco de Dados 02 ministrado pela Esp.Helen de Freitas Santos
 
