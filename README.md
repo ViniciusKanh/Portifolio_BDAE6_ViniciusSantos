@@ -1,5 +1,5 @@
 # :bar_chart: BANCO DE DADOS 02 - BDAE6 :minidisc:	
-<img src="https://github.com/ViniciusKanh/Portifolio_BDAE6_ViniciusSantos/blob/main/imgs/CAPA.jfif" width="600" height="300" />
+<img src="https://github.com/ViniciusKanh/Portifolio_BDAE6_ViniciusSantos/blob/main/imgs/CAPA.gif" width="600" height="300" />
 
 
 ## :mag: Portifolio BDAE6 Vinicius Santos
@@ -26,7 +26,7 @@
 
 - [:heavy_check_mark:] Aula 01 - 03/08/2021
 - [:heavy_check_mark:] Aula 02 - 10/08/2021
-- [ ] Aula 03 - 17/08/2021
+- [:heavy_check_mark:] Aula 03 - 17/08/2021
 - [ ] Aula 04 - 24/08/2021
 - [ ] Aula 05 - 31/08/2021
 
