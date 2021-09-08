@@ -24,9 +24,17 @@
 
 ###  MES: AGOSTO
 
-- [:heavy_check_mark:] Aula 01 - 03/08/2021
-- [:heavy_check_mark:] Aula 02 - 10/08/2021
-- [:heavy_check_mark:] Aula 03 - 17/08/2021
-- [:heavy_check_mark:] Aula 04 - 24/08/2021
-- [:heavy_check_mark:] Aula 05 - 31/08/2021
+- [:heavy_check_mark:] Aula 01 - 03/08/2021 Obs: 	Apresentação da Disciplina, professora e alunos. Avaliação Diagnóstica
+- [:heavy_check_mark:] Aula 02 - 10/08/2021 Obs:  Criação de objetos no banco de dados (tabela, chave primária, restrições, sequência)
+- [:heavy_check_mark:] Aula 03 - 17/08/2021 Obs:  Objetos de Banco de Dados: tabelas, indices, constraints e sequences
+- [:heavy_check_mark:] Aula 04 - 24/08/2021 Obs:  Índices: por que?
+- [:heavy_check_mark:] Aula 05 - 31/08/2021 Obs:  Inserindo os Dados nas Tabelas
+
+###  MES: SETEMBRO
+
+- [:heavy_check_mark:] Aula 06 - 07/09/2021 Obs: Feriado ( Dia da Independencia)
+- [] Aula 07 - 14/09/2021
+- [] Aula 08 - 21/09/2021
+- [] Aula 09 - 28/09/2021
+
 
