@@ -32,7 +32,7 @@
 
 ###  MES: SETEMBRO
 
-- [:heavy_check_mark:] Aula 06 - 07/09/2021 Obs: Feriado ( Dia da Independencia)
+- [:heavy_check_mark:] Aula 06 - 07/09/2021 Obs: Feriado ( Dia da Independencia )
 - [] Aula 07 - 14/09/2021
 - [] Aula 08 - 21/09/2021
 - [] Aula 09 - 28/09/2021
