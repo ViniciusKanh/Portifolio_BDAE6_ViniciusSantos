@@ -1,0 +1,20 @@
+            joga(P,X),joga(lep,X)
+   P=ana X = volei          P=bia X=tenis
+joga(ana,volei)              joga(bia,tenis)
+       I                            I
+joga(leo,volei)               joga(leo,tenis)
+       I                             I
+ false                               true
+
+
+b)
+               Joga(P,X),joga(lep,X)
+             /
+   X = tenis                                
+joga(leo,volei)
+        I
+joga(bia,tenis)
+        I
+       true               
+                                  
+                               

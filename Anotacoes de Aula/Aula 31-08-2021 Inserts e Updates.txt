@@ -1,0 +1,16 @@
+select * from ESTADOPAIS
+
+select * from CIDADE
+
+insert into ESTADOPAIS (NOME, SIGLA) values ('São Paulo', 'SP') 
+
+insert into CIDADE (ID,NOME,IDESTADOPAIS) values (1,'Birigui',1)
+
+update CIDADE set IDESTADOPAIS = 21 where ID = 1
+
+insert into CIDADE (ID,NOME,IDESTADOPAIS) values (1,'Birigui',1)
+
+
+insert into CIDADE (ID,NOME,IDESTADOPAIS) values (2,'RIO DE janeiro',2)
+
+insert into CIDADE (ID,NOME,IDESTADOPAIS) values (3,'Sao Paulo',21)

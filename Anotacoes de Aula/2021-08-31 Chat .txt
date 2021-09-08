@@ -1,0 +1,239 @@
+MeetSaveChat - Histórico do bate - papo 
+Data: 2021-08-31
+Hora: 10:10
+
+HENRIQUE FERRARI SARJORATO - 07:59
+Professora tive um problema com o notebook e hoje vou ter que assistir aula pelo celular
+
+EMILY DA SILVA COSTA - 07:59
+bom dia
+
+DANILO NABA - 08:05
+bom dia
+
+WESLEY FILIPIM BARCELLOS - 08:06
+Professora vc está transmitindo ?
+
+Helen de Freitas Santos - 08:06
+1) posicionamento sobre as atividades realizadas no banco
+2) depois de incluir estados e cidades, elaborar 2 SQLs:
+a) mostrar todas as cidades com o nome da cidade, sigla do estado e nome do estado
+b) mostrar todos os estados com a quantidade de cidades em cada estado
+
+ADAM YOSHIDA SHINSATO - 08:07
+Bom dia Helen, até agora criei todas as tabelas no Apex mas não inseri nenhum dado nelas, por conta de dúvidas, então preferi deixar pra depois por que estou com muita tarefa acumulada.
+
+CARLOS HENRIQUE ZILIOLI BRAGA - 08:11
+insert into estado
+
+GUSTAVO SHOJI NISHIMURA - 08:11
+insert into estadopais (nome, sigla) values ('Minas Gerais', 'MG') assim por exemplo?
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 08:13
+sim
+
+DANILO NABA - 08:13
+sim
+
+WESLEY FILIPIM BARCELLOS - 08:15
+Será o " ; " ?
+
+HENRIQUE FERRARI SARJORATO - 08:24
+De boa por enquanto
+
+LUCAS MITY KAMADO - 08:24
+por enquanto de boa
+
+CARLOS HENRIQUE ZILIOLI BRAGA - 08:24
+Bom dia! Já criei as tabelas, cadastrei até agora os estados, e fiz a última tarefa dos Selects!
+
+CARLOS HENRIQUE ZILIOLI BRAGA - 08:24
+Sim
+
+CARLOS HENRIQUE ZILIOLI BRAGA - 08:24
+Sim, já consigo mostrar todos
+
+GABRIEL BARBOSA HONORIO DA SILVA - 08:28
+Bom dia, pra mim só faltou terminar a parte da semana passada, mas eu já criei as tabelas e fiz os inserts
+
+GABRIEL BARBOSA HONORIO DA SILVA - 08:28
+do Select
+
+GABRIEL BARBOSA HONORIO DA SILVA - 08:28
+sim
+
+HENRIQUE FERRARI SARJORATO - 08:31
+Eu estava tentando resolver aquele problema que tive com uma das tabelas mas por causa do imprevisto que eu relatei no início da aula não consegui nem chamar a senhora para pedir ajuda
+
+HENRIQUE FERRARI SARJORATO - 08:31
+Mas as tabelas já estão quase todas prontas e enviadas no portifólio
+
+LEONARDO NEVES PERLES - 08:32
+Fiz as tabelas e a tabela de ontem
+
+LEONARDO NEVES PERLES - 08:32
+atividade*
+de que era pra hoje da semana passaada
+
+LUCAS MITY KAMADO - 08:33
+Ja criei todas as tabelas, acabei de fazer o insert junto com o adam enquanto ele estava espelhando a tela dele, deu tudo certo aqui.
+Estou separando as atividades no meu portfolio por data, esse insert e select posso colocar na atividade do dia 10/08? junto com as create table estadopais e cidade? ou faço em um topico novo de hoje 31/08? 
+Fiz as últimas atividades também
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 08:34
+ta escutando
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 08:34
+?
+
+GABRIEL BARBOSA HONORIO DA SILVA - 08:35
+não
+
+LEONARDO PAVAN CUNHA MATTOS - 08:35
+não mah
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 08:35
+professora, me passa so p eu arrumar o mic
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 08:35
+e a gnt conversar
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 08:35
+dps volta em mim
+
+GABRIELA PEREIRA RIBEIRO - 08:37
+Professora, estava no banheiro na minha hora. Por enquanto, criei as tabelas.
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 08:37
+acho q eu arrumei o microfone
+
+GABRIELA PEREIRA RIBEIRO - 08:39
+Ainda nao
+
+GABRIELA PEREIRA RIBEIRO - 08:39
+Farei hoje
+
+Você - 08:52
+Professora fiz todas as suas atividade esta no meu portifolio da uma conferida se quiser, os meu insert e Updates la tambem vou colocar la hoje tambem.
+
+Você - 08:52
+nao professora
+
+Helen de Freitas Santos - 08:59
+mostrar todas as cidades com o nome da cidade, sigla do estado e nome do estado
+
+WESLEY FILIPIM BARCELLOS - 09:00
+Select * from cidade
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 09:02
+ouvimos
+
+Você - 09:03
+cidade.nome
+
+LEONARDO PAVAN CUNHA MATTOS - 09:03
+estado.sigla
+
+Você - 09:03
+estado.sigla databela estado
+
+LEONARDO PAVAN CUNHA MATTOS - 09:04
+estado.nome
+
+LEONARDO PAVAN CUNHA MATTOS - 09:04
+em relação a isso ta tranquilo
+
+LEONARDO PAVAN CUNHA MATTOS - 09:07
+sim
+
+LEONARDO PAVAN CUNHA MATTOS - 09:07
+as tabelas eu criei aq
+
+LEONARDO PAVAN CUNHA MATTOS - 09:07
+pra poder acompanhar melhor
+
+Helen de Freitas Santos - 09:10
+ mostrar todos os estados com a quantidade de cidades em cada estado
+
+LEONARDO PAVAN CUNHA MATTOS - 09:10
+ate entao sim
+
+MATHEUS SHINJI FUKUYAMA - 09:10
+qual é a pergunta, professora?
+
+Você - 09:11
+professora se nao me engano vc usa o Cont nao e, so nao lembro como faz
+
+Você - 09:11
+select * from Estados
+
+LEONARDO PAVAN CUNHA MATTOS - 09:14
+teria que fazer usando o ID do estado?
+
+LEONARDO PAVAN CUNHA MATTOS - 09:18
+não
+
+HENRIQUE FERRARI SARJORATO - 09:18
+acho que foi por enquanto
+
+DJAVAN DOS SANTOS CANDEIA - 09:25
+Internet muito ruim aqui professora tá ventando
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 09:27
+é (+)?
+
+Helen de Freitas Santos - 09:33
+ORA-00937: não é uma função de grupo de grupo simples
+00937. 00000 -  "not a single-group group function"
+*Cause:    
+*Action:
+Erro na linha: 50 Coluna: 8
+
+Helen de Freitas Santos - 09:33
+group by
+
+Helen de Freitas Santos - 09:53
+<a class="DbQRg" rel="nofollow noopener noreferrer" target="_blank" href="https://docs.oracle.com/cd/E11882_01/server.112/e41084/toc.htm">https://docs.oracle.com/cd/E11882_01/server.112/e41084/toc.htm</a>
+
+MARINA PEREIRA DOS SANTOS GIACCHERO - 09:53
+so fica carregando
+
+Você - 09:54
+s
+
+DJAVAN DOS SANTOS CANDEIA - 10:05
+Ok professora
+
+WILLIAN GUSTAVO ROCHA LEME - 10:06
+eu tava sem energia ate 9:40
+
+WILLIAN GUSTAVO ROCHA LEME - 10:06
+n sei se tinha perguntado alguma coisa pra mim
+
+PEDRO HENRIQUE TON PAULETTI - 10:06
+Professora, estava aqui e não me chamou
+
+PEDRO HENRIQUE TON PAULETTI - 10:06
+Chamou o outro Pedro
+
+DJAVAN DOS SANTOS CANDEIA - 10:07
+A minha NET n tá contribuindo hoje também professora
+
+DJAVAN DOS SANTOS CANDEIA - 10:07
+Sim
+
+PEDRO HENRIQUE TON PAULETTI - 10:08
+Na hora você só chamou o nome do outro Pedro
+
+PEDRO HENRIQUE TON PAULETTI - 10:08
+Mas tudo bem
+
+WESLEY FILIPIM BARCELLOS - 10:09
+Ok professora
+
+Você - 10:09
+ok semana que vem nao tem aula ne
+
+DJAVAN DOS SANTOS CANDEIA - 10:10
+Ok professora obrigado e bom feriado
+
