@@ -35,6 +35,6 @@
 - [:heavy_check_mark:] Aula 06 - 07/09/2021 Obs: Feriado ( Dia da Independencia )
 - [:heavy_check_mark:] Aula 07 - 14/09/2021 Obs: Elaboração individual de SQL contendo os conteúdos apresentados
 - [:heavy_check_mark:] Aula 08 - 21/09/2021 Obs: IDE para SGBD Oracle, backup, importação de dados
-- [] Aula 09 - 28/09/2021 Obs: Cursor, função, procedimento e trigger
+- [:heavy_check_mark:] Aula 09 - 28/09/2021 Obs: Cursor, função, procedimento e trigger
 
 
