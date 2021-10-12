@@ -9,8 +9,6 @@
 
 ### Nesse Portifolio separei 3 Pasta ate o momento:
 
-<br><img src="imgs/BDAE6.PNG" alt="Página Principal"/><br>
-
 ### :white_medium_square: Anotações de Aula
   Essa Pasta está dedicada as anotações de aulas disponibilizadas pela professora e com algumas anotações minhas 
   
