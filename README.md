@@ -37,4 +37,11 @@
 - [:heavy_check_mark:] Aula 08 - 21/09/2021 Obs: IDE para SGBD Oracle, backup, importação de dados
 - [:heavy_check_mark:] Aula 09 - 28/09/2021 Obs: Cursor, função, procedimento e trigger
 
+###  MES: OUTUBRO
+
+- [:heavy_check_mark:] Aula 10 - 05/10/2021 Obs: Criação de função, procedimento e trigger
+- [:heavy_check_mark:] Aula 11 - 12/10/2021 Obs: Feriado ( Dia das Criancas )
+- [] Aula 12 - 19/10/2021 Obs: Package
+- [] Aula 13 - 26/10/2021 Obs: Package
+
 
