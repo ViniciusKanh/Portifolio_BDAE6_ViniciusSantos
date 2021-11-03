@@ -81,8 +81,20 @@
 
 - [:heavy_check_mark:] Aula 10 - 05/10/2021 Obs: Criação de função, procedimento e trigger
 - [:heavy_check_mark:] Aula 11 - 12/10/2021 Obs: Feriado ( Dia das Criancas )
-- [] Aula 12 - 19/10/2021 Obs: Package
-- [] Aula 13 - 26/10/2021 Obs: Package
+- [:heavy_check_mark:] Aula 12 - 19/10/2021 Obs: Semana Nacional da Ciencia e Tecnologia
+- [:heavy_check_mark:] Aula 13 - 26/10/2021 Obs: Importacao de Arquivo Excel
+
+###  MES: NOVEMBRO
+
+- [:heavy_check_mark:] Aula 14 - 02/11/2021 Obs: Feriado ( Finados )
+- [] Aula 15 - 09/11/2021 Obs: View, Privilégio (Grant)
+- [] Aula 16 - 16/11/2021 Obs: View, Privilégio (grant), Instalação do SGBD
+- [] Aula 17 - 23/11/2021 Obs: Elaboração Individual de um Projeto de Banco de Dados
+- [] Aula 18 - 30/11/2021 Obs: Elaboração Individual de um Projeto de Banco de Dados
+
+###  MES: DEZEMBRO
+
+- [] Aula 19 - 07/12/2021 Obs: Seminário: Apresentação dos projetos de banco de dados
+- [] Aula 20 - 14/12/2021 Obs: Seminário: Apresentação dos projetos de banco de dados
 
 
->>>>>>> 56e49bbf70dce0879b3aa5b5c8d79cb39b5cf740
