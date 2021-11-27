@@ -87,10 +87,10 @@
 ###  MES: NOVEMBRO
 
 - [:heavy_check_mark:] Aula 14 - 02/11/2021 Obs: Feriado ( Finados )
-- [] Aula 15 - 09/11/2021 Obs: View, Privilégio (Grant)
-- [] Aula 16 - 16/11/2021 Obs: View, Privilégio (grant), Instalação do SGBD
-- [] Aula 17 - 23/11/2021 Obs: Elaboração Individual de um Projeto de Banco de Dados
-- [] Aula 18 - 30/11/2021 Obs: Elaboração Individual de um Projeto de Banco de Dados
+- [:heavy_check_mark:] Aula 15 - 09/11/2021 Obs: View, Privilégio (Grant)
+- [:heavy_check_mark:] Aula 16 - 16/11/2021 Obs: View, Privilégio (grant), Instalação do SGBD
+- [:heavy_check_mark:] Aula 17 - 23/11/2021 Obs: Elaboração Individual de um Projeto de Banco de Dados
+- [:heavy_check_mark:] Aula 18 - 30/11/2021 Obs: Elaboração Individual de um Projeto de Banco de Dados
 
 ###  MES: DEZEMBRO
 
