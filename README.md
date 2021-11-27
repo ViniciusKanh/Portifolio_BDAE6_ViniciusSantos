@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # :bar_chart: BANCO DE DADOS 02 - BDAE6 :minidisc:	
 <img src="https://github.com/ViniciusKanh/Portifolio_BDAE6_ViniciusSantos/blob/main/imgs/CAPA.gif" width="600" height="300" />
 
