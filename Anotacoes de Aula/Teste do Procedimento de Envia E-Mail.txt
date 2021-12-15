@@ -1,0 +1,13 @@
+
+
+
+
+BEGIN
+  PR_ENVIAREMAILAUT (pv_smtp        => 'smtp.gmail.com',
+            pv_usuario      => 'viniciussouza742@gmail.com',
+            pv_senha   => '@Google122110',
+            pv_remetente   => 'viniciussouza742@gmail.com',
+            pv_destinatario   => 'vinnyciussouza@outlook.com',
+            pv_assunto   => 'Teste',
+            pc_mensagem => 'This is a test message.');
+END;
