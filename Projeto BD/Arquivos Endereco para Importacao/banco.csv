@@ -1,0 +1,217 @@
+Editar;Id;Codigo;Nome
+;53;1;Banco do Brasil S.A.
+;45;3;Banco da Amazônia S.A.
+;57;4;Banco do Nordeste do Brasil S.A.
+;86;7;Banco Nacional de Desenvolvimento Econômico e Social – BNDES
+;152;10;Credicoamo
+;132;11;C.Suisse Hedging-Griffo Cv S.A (Credit Suisse)
+;64;12;Banco Inbursa S.A.
+;185;14;Natixis Brasil S.A. Banco Múltiplo
+;137;16;Ccm Desp Trâns Sc E Rs
+;124;17;BNY Mellon Banco S.A.
+;110;18;Banco Tricury S.A.
+;117;21;BANESTES S.A. Banco do Estado do Espírito Santo
+;18;24;Banco BANDEPE S.A.
+;13;25;Banco Alfa S.A.
+;70;29;Banco Itaú Consignado S.A.
+;101;33;Banco Santander (Brasil) S.A.
+;23;36;Banco Bradesco BBI S.A.
+;55;37;Banco do Estado do Pará S.A.
+;33;40;Banco Cargill S.A.
+;56;41;Banco do Estado do Rio Grande do Sul S.A.
+;54;47;Banco do Estado de Sergipe S.A.
+;48;51;Banco de Desenvolvimento do Espírito Santo S.A.
+;145;60;Confidence Cc S.A
+;166;62;Hipercard Banco Múltiplo S.A.
+;22;63;Banco Bradescard S.A.
+;162;64;Goldman Sachs do Brasil Banco Múltiplo S.A.
+;15;65;Banco Andbank (Brasil) S.A.
+;84;66;Banco Morgan Stanley S.A.
+;44;69;Banco Crefisa S.A.
+;127;70;BRB – Banco de Brasília S.A.
+;73;74;Banco J. Safra S.A.
+;11;75;Banco ABN AMRO S.A
+;75;76;Banco KDB S.A.
+;67;77;Banco Inter S.A.
+;165;78;Haitong Banco de Investimento do Brasil S.A.
+;89;79;Banco Original do Agronegócio S.A.
+;8;80;"B&amp;T Cc Ltda"
+;116;81;BancoSeguro S.A.
+;108;82;Banco Topázio S.A.
+;46;83;Banco da China Brasil S.A.
+;146;85;Coop Central Ailos
+;138;89;Ccr Reg Mogiana
+;216;91;Unicred Central Rs
+;128;92;Brickell S.A. Crédito, Financiamento e Investimento
+;198;93;Pólocred Scmepp Ltda
+;62;94;Banco Finaxis S.A.
+;212;95;Travelex Banco de Câmbio S.A.
+;17;96;Banco B3 S.A.
+;147;97;Cooperativa Central de Crédito Noroeste Brasileiro Ltda.
+;151;98;Credialiança Ccr
+;218;99;UNIPRIME Central – Central Interestadual de Cooperativas de Crédito Ltda.
+;196;100;Planner Corretora De Valores S.A
+;201;101;Renascenca Dtvm Ltda
+;221;102;Xp Investimentos S.A
+;133;104;Caixa Econômica Federal
+;179;105;"Lecca Crédito, Financiamento e Investimento S&#x2F;A"
+;21;107;Banco BOCOM BBM S.A.
+;199;108;Portocred S.A
+;88;111;Banco Oliveira Trust Dtvm S.A
+;181;113;Magliano S.A
+;139;114;Central Cooperativa De Crédito No Estado Do Espírito Santo
+;3;117;Advanced Cc Ltda
+;209;118;"Standard Chartered Bank (Brasil) S&#x2F;A–Bco Invest."
+;113;119;Banco Western Union do Brasil S.A.
+;99;120;Banco Rodobens S.A.
+;4;121;Banco Agibank S.A.
+;24;122;Banco Bradesco BERJ S.A.
+;114;124;Banco Woori Bank do Brasil S.A.
+;197;125;Plural S.A. – Banco Múltiplo
+;126;126;BR Partners Banco de Investimento S.A.
+;143;127;Codepe Cvc S.A
+;183;128;MS Bank S.A. Banco de Câmbio
+;215;129;UBS Brasil Banco de Investimento S.A.
+;135;130;Caruana Scfi
+;214;131;Tullett Prebon Brasil Cvc Ltda
+;171;132;ICBC do Brasil Banco Múltiplo S.A.
+;153;133;Cresol Confederação
+;123;134;Bgc Liquidez Dtvm Ltda
+;217;136;Unicred Cooperativa
+;184;137;Multimoney Cc Ltda
+;161;138;Get Money Cc Ltda
+;173;139;Intesa Sanpaolo Brasil S.A. – Banco Múltiplo
+;157;140;Easynvest – Título Cv S.A
+;130;142;Broker Brasil Cc Ltda
+;213;143;Treviso Corretora de Câmbio S.A.
+;121;144;BEXS Banco de Câmbio S.A.
+;180;145;Levycam Ccv Ltda
+;164;146;Guitta Corretora de Câmbio Ltda
+;158;149;Facta S.A. Cfi
+;170;157;Icap Do Brasil Ctvm Ltda
+;136;159;Casa Credito S.A
+;144;163;Commerzbank Brasil S.A. – Banco Múltiplo
+;87;169;Banco Olé Bonsucesso Consignado S.A.
+;5;172;Albatross Ccv S.A
+;129;173;BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.
+;195;174;Pernambucanas Financ S.A
+;163;177;Guide Investimentos S.A. Corretora de Valores
+;142;180;Cm Capital Markets Cctvm Ltda
+;154;182;"Dacasa Financeira S&#x2F;A"
+;207;183;Socred S.A
+;69;184;Banco Itaú BBA S.A.
+;6;188;Ativa Investimentos S.A
+;167;189;"HS Financeira S&#x2F;A Crédito, Financiamento e Investimentos"
+;206;190;Servicoop
+;186;191;Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.
+;194;194;Parmetal Distribuidora de Títulos e Valores Mobiliários Ltda
+;58;196;Banco Fair Corretora de Câmbio S.A
+;210;197;Stone Pagamentos S.A
+;25;204;Banco Bradesco Cartões S.A.
+;29;208;Banco BTG Pactual S.A.
+;90;212;Banco Original S.A.
+;16;213;Banco Arbi S.A.
+;74;217;Banco John Deere S.A.
+;28;218;Banco BS2 S.A.
+;42;222;Banco Credit Agricole Brasil S.A.
+;60;224;Banco Fibra S.A.
+;37;233;Banco Cifra S.A.
+;27;237;Banco Bradesco S.A.
+;39;241;Banco Clássico S.A.
+;78;243;Banco Máxima S.A.
+;1;246;Banco ABC Brasil S.A.
+;68;249;Banco Investcred Unibanco S.A.
+;120;250;BCV – Banco de Crédito e Varejo S.A.
+;122;253;"Bexs Corretora de Câmbio S&#x2F;A"
+;192;254;Paraná Banco S.A.
+;188;260;Nu Pagamentos S.A (Nubank)
+;59;265;Banco Fator S.A.
+;35;266;Banco Cédula S.A.
+;119;268;Barigui Companhia Hipotecária
+;168;269;HSBC Brasil S.A. – Banco de Investimento
+;202;270;Sagitur Corretora de Câmbio Ltda.
+;169;271;IB Corretora de Câmbio, Títulos e Valores Mobiliários S.A.
+;150;273;"Cooperativa de Crédito Rural de São Miguel do Oeste – Sulcredi&#x2F;São Miguel"
+;204;276;Senff S.A. – Crédito, Financiamento e Investimento
+;160;278;Genial Investimentos Corretora de Valores Mobiliários S.A.
+;149;279;Cooperativa de Crédito Rural de Primavera Do Leste
+;7;280;Avista S.A. Crédito, Financiamento e Investimento
+;200;283;Rb Capital Investimentos Dtvm Ltda
+;159;285;Frente Corretora de Câmbio Ltda.
+;148;286;Cooperativa de Crédito Rural De Ouro
+;134;288;Carol Distribuidora de Títulos e Valor Mobiliários Ltda
+;191;290;Pagseguro Internet S.A
+;131;292;BS2 Distribuidora de Títulos e Valores Mobiliários S.A.
+;178;293;Lastro RDV Distribuidora de Títulos e Valores Mobiliários Ltda.
+;219;298;Vips Cc Ltda
+;208;299;Sorocred Crédito, Financiamento e Investimento S.A.
+;49;300;Banco de La Nacion Argentina
+;125;301;Bpp Instituição De Pagamentos S.A
+;220;310;Vortx Distribuidora de Títulos e Valores Mobiliários Ltda
+;19;318;Banco BMG S.A.
+;140;320;China Construction Bank (Brasil) Banco Múltiplo S.A.
+;182;323;Mercado Pago – Conta Do Mercado Livre
+;193;326;Parati – Crédito Financiamento e Investimento S.A.
+;52;335;Banco Digio S.A
+;30;336;Banco C6 S.A – C6 Bank
+;211;340;Super Pagamentos e Administração de Meios Eletrônicos S.A.
+;175;341;Itaú Unibanco S.A.
+;115;348;"Banco Xp S&#x2F;A"
+;105;366;Banco Société Générale Brasil S.A.
+;34;368;Banco Carrefour
+;82;370;Banco Mizuho do Brasil S.A.
+;72;376;Banco J. P. Morgan S.A.
+;80;389;Banco Mercantil de Investimentos S.A.
+;81;389;Banco Mercantil do Brasil S.A.
+;26;394;Banco Bradesco Financiamentos S.A.
+;177;399;Kirton Bank S.A. – Banco Múltiplo
+;32;412;Banco Capital S.A.
+;100;422;Banco Safra S.A.
+;85;456;Banco MUFG Brasil S.A.
+;107;464;Banco Sumitomo Mitsui Brasileiro S.A.
+;31;473;Banco Caixa Geral – Brasil S.A.
+;141;477;Citibank N.A.
+;71;479;Banco ItauBank S.A
+;156;487;Deutsche Bank S.A. – Banco Alemão
+;176;488;JPMorgan Chase Bank, National Association
+;172;492;ING Bank N.V.
+;51;494;Banco de La Republica Oriental del Uruguay
+;50;495;Banco de La Provincia de Buenos Aires
+;43;505;Banco Credit Suisse (Brasil) S.A.
+;205;545;Senso Ccvm S.A
+;77;600;Banco Luso Brasileiro S.A.
+;65;604;Banco Industrial do Brasil S.A.
+;112;610;Banco VR S.A.
+;93;611;Banco Paulista S.A.
+;63;612;Banco Guanabara S.A.
+;189;613;Omni Banco S.A.
+;92;623;Banco PAN S.A.
+;61;626;Banco Ficsa S.A.
+;104;630;Banco Smartbank S.A.
+;97;633;Banco Rendimento S.A.
+;109;634;Banco Triângulo S.A.
+;106;637;Banco Sofisa S.A.
+;14;641;Banco Alvorada S.A.
+;94;643;Banco Pine S.A.
+;174;652;Itaú Unibanco Holding S.A.
+;66;653;Banco Indusval S.A.
+;9;654;Banco A.J.Renner S.A.
+;111;655;Banco Votorantim S.A.
+;95;658;Banco Porto Real de Investimentos S.A.
+;47;707;Banco Daycoval S.A.
+;91;712;Banco Ourinvest S.A.
+;79;720;Banco Maxinvest S.A.
+;36;739;Banco Cetelem S.A.
+;98;741;Banco Ribeirão Preto S.A.
+;102;743;Banco Semear S.A.
+;38;745;Banco Citibank S.A.
+;83;746;Banco Modal S.A.
+;96;747;Banco Rabobank International Brasil S.A.
+;2;748;Banco Cooperativo Sicredi S.A.
+;203;751;Scotiabank Brasil S.A. Banco Múltiplo
+;20;752;Banco BNP Paribas Brasil S.A.
+;187;753;Novo Banco Continental S.A. – Banco Múltiplo
+;103;754;Banco Sistema S.A.
+;118;755;Bank of America Merrill Lynch Banco Múltiplo S.A.
+;40;756;Banco Cooperativo do Brasil S.A. – BANCOOB
+;76;757;Banco KEB HANA do Brasil S.A.
